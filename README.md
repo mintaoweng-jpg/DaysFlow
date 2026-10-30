@@ -2,7 +2,7 @@
 
 **DaysFlow** 是一个简洁的日、周、月计划网页应用，适合记录每日待办、截止日期、连续活动、长期目标和周清单。它直接在浏览器中运行，无需安装或构建项目。
 
-**在线体验：** <https://mintaoweng-jpg.github.io/daybook/>
+**在线体验：** <https://mintaoweng-jpg.github.io/DaysFlow/>
 
 ## 功能
 
@@ -34,4 +34,3 @@ DaysFlow **没有账户系统和云端数据库**。待办、活动、长期目�
 ## 许可证
 
 项目使用 MIT License，详见 [LICENSE](LICENSE)。
-
